@@ -13,3 +13,5 @@ This project aims to create a To-Do List program with the following features:
 - Export to .csv File:
     Implement the ability to save the to-do list as a .csv (Comma-Separated Values) file.
     This feature allows users to export their task data for backup or sharing purposes.
+#Installation
+pip install PyQt5
